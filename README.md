@@ -9,7 +9,7 @@ https://docs.google.com/presentation/d/1dyfjY2duwiCZNmFDOy7tdh3JRXiD0LzcIxvGJEYd
 
 ## PCA for clustering and anomaly detection
 
-* Using PCA to cluster and detect anomalies: https://github.com/petermchale/anomaly-detection-with-pcas-and-autoencoders/blob/main/2D.1.ipynb 
+https://github.com/petermchale/anomaly-detection-with-pcas-and-autoencoders/blob/main/2D.1.ipynb 
 
 ## Autoencoders
 
